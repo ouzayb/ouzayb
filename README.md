@@ -1,5 +1,5 @@
 - --ouzayb--
-- I’m interested in computer engineering and robotics
+- I’m interested in computer engineering, robotics and avionics
 - currently studying in ITU computer engineering
 - ouzayb@gmail.com
 
